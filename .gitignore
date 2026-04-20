@@ -13,3 +13,12 @@ run/20260416_194859_COnP/logs/*
 !run/20260416_194859_COnP/checkpoints/
 run/20260416_194859_COnP/checkpoints/*
 !run/20260416_194859_COnP/checkpoints/best_model.pt
+!run/20260420_003628_COnP/
+run/20260420_003628_COnP/*
+!run/20260420_003628_COnP/test_monitor.txt
+!run/20260420_003628_COnP/logs/
+run/20260420_003628_COnP/logs/*
+!run/20260420_003628_COnP/logs/train_stdout.log
+!run/20260420_003628_COnP/checkpoints/
+run/20260420_003628_COnP/checkpoints/*
+!run/20260420_003628_COnP/checkpoints/best_model.pt
