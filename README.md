@@ -105,6 +105,8 @@ CUDA_VISIBLE_DEVICES=3 python3 predict_to_json.py \
 
 ## 评测
 
+评测脚本 `evaluate_github.py` 来源于 [york135/singing_transcription_ICASSP2021](https://github.com/york135/singing_transcription_ICASSP2021/tree/master/evaluate)。
+
 ```bash
 python3 evaluate_github.py \
     MIR-ST500_corrected.json \
